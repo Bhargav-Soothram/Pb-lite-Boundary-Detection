@@ -1,7 +1,0 @@
-To run the code:
-
-The python file will prompt for the path of the directory where the package "bsoothra_hw0" is located.
-Please give the path as an input to run the code!
-After execution, you can see the image outputs in their corresponding folders in the "Code" folder.
-NOTE: Please put the input images in the folder "bsoothra_hw0/Phase1/BSDS500/Images/" - similarly, do not change the locations of the Canny and Sobel images - as they are hard-coded into the script!
-
